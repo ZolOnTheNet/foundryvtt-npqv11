@@ -1,0 +1,39 @@
+{
+  "SETTINGS.SimpleMacroShorthandN": "Racourcci syntaxique pour Macro",
+  "SETTINGS.SimpleMacroShorthandL": "Autorise la forme courte dans la syntaxe des marcros qui permet de reférencer les attributs directement, par exemple @str au lieu de  @attributes.str.value. Désactivé cette option si vous avez besoin d'acceder à l'ensemble des sous-données de l'attribut, par exemple @attributes.str.label.",
+  "SETTINGS.SimpleInitFormulaN": "Formule d'initiative",
+  "SETTINGS.SimpleInitFormulaL": "Saississez la formule de l'intitiative, comme d20+@dex",
+
+  "SIMPLE.ItemCreate": "Créer un Item",
+  "SIMPLE.ItemEdit": "Editer un Item",
+  "SIMPLE.ItemDelete": "Supprimer Item",
+  "SIMPLE.ItemNew": "Nouvel Item",
+
+  "SIMPLE.NotifyInitFormulaUpdated": "La formule de l'Initiative a été mis à jour",
+  "SIMPLE.NotifyInitFormulaInvalid": "La formule de l'Initiative n'est pas correct",
+  "SIMPLE.NotifyGroupDuplicate": "Le groupe de l'Attribut existe déjà.",
+  "SIMPLE.NotifyGroupAttrDuplicate": "Le groupe de l'Attribut existe déjà comme un attribut.",
+  "SIMPLE.NotifyGroupAlphanumeric": "Les noms de groupes d'Attributs ne doivent pas contenir des espaces ou des virgules.",
+  "SIMPLE.NotifyGroupReserved": "Le groupe de l'Attribut \"{key}\" est réservé et ne peut être utiliser.",
+  "SIMPLE.NotifyAttrDuplicate": "La clé (key) de cet Attribut existe déjà comme un groupe.",
+  "SIMPLE.NotifyAttrInvalid": "Les clés d'Attributs ne doivent pas contenir des espaces ou des virgules.",
+
+  "SIMPLE.ResourceMin": "Min",
+  "SIMPLE.ResourceValue": "Valeur",
+  "SIMPLE.ResourceMax": "Max",
+
+  "SIMPLE.DefineTemplate": "Est un Modèle (template)",
+  "SIMPLE.UnsetTemplate": "N'Est pas un Modèle (Template)",
+  "SIMPLE.NoTemplate": "N'est pas un Modèle (Template)",
+
+  "SIMPLE.AttributeKey": "Clé d'Attribut",
+  "SIMPLE.AttributeValue": "Valeur",
+  "SIMPLE.AttributeLabel": "Labelle",
+  "SIMPLE.AttributeDtype": "Type de donnée",
+
+  "SIMPLE.DeleteGroup": "Supprimer le groupe?",
+  "SIMPLE.DeleteGroupContent": "Souhaitez vou supprimer ce groupe? Cela supprimera ce groupe et tous les attributs dépendants : ",
+
+  "SIMPLE.Create": "Creer",
+  "SIMPLE.New": "Nouveau"
+}
