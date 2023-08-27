@@ -35,5 +35,28 @@
   "SIMPLE.DeleteGroupContent": "Souhaitez vou supprimer ce groupe? Cela supprimera ce groupe et tous les attributs dépendants : ",
 
   "SIMPLE.Create": "Creer",
-  "SIMPLE.New": "Nouveau"
+  "SIMPLE.New": "Nouveau",
+
+  "NPQ.Version" : "Version NPQ v11",
+
+  "k2m.artisan" : "Artisan",
+  "k2m.artiste" : "Artiste",
+  "k2m.athlete" : "Athlète",
+  "k2m.bagarreur" : "Bagarreur",
+  "k2m.combattant" : "Combattant",
+  "k2m.erudit" : "Erudit",
+  "k2m.gentilhomme" : "Gentilhomme",
+  "k2m.intrigant" : "Intrigant",
+  "k2m.larron" : "Larron",
+  "k2m.magicien" : "Magicien",
+  "k2m.marchand" : "Marchand",
+  "k2m.medecin" : "Médecin",
+  "k2m.religieux" : "Religieux",
+  "k2m.rodeur" : "Rôdeur",
+  "k2m.senechal" : "Sénéchal",
+  "k2m.soldat" : "Soldat",
+  "k2m.tireur" : "Tireur",
+  "k2m.veneur" : "Veneur",
+  "k2m.voyageur" : "Voyageur"
+  
 }

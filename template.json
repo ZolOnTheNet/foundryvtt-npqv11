@@ -2,6 +2,107 @@
 "Actor": {
   "types": ["character"],
   "htmlFields": ["biography"],
+  "templates": {
+    "cmps": {
+      "cmp" : {
+        "artisan": {
+          "value": 1,
+          "label":"k2m.artisan",
+          "xp": 1
+        },
+        "artiste": {
+          "value": 1,
+          "label":"k2m.artiste",
+          "xp": 1              
+        },
+        "athlete": {
+          "value": 1,
+          "label":"k2m.athlete",
+          "xp": 1              
+        },
+        "bagarreur": {
+          "value": 1,
+          "label":"k2m.bagarreur",
+          "xp": 1              
+        },
+        "combattant": {
+          "value": 1,
+          "label":"k2m.combattant",
+          "xp": 1              
+        },
+        "erudit": {
+          "value": 1,
+          "label":"k2m.erudit",
+          "xp": 1              
+        },
+        "gentilhomme": {
+          "value": 1,
+          "label":"k2m.gentilhomme",
+          "xp": 1              
+        },
+        "intrigant": {
+          "value": 1,
+          "label":"k2m.intrigant",
+          "xp": 1              
+        },
+        "larron": {
+          "value": 1,
+          "label":"k2m.larron",
+          "xp": 1              
+        },
+        "magicien": {
+          "value": 1,
+          "label":"k2m.magicien",
+          "xp": 1              
+        },
+        "marchand": {
+          "value": 1,
+          "label":"k2m.marchand",
+          "xp": 1              
+        },
+       "medecin": {
+          "value": 1,
+          "label":"k2m.medecin",
+          "xp": 1              
+        },
+        "Religieux": {
+          "value": 1,
+          "label":"k2m.religieux",
+          "xp": 1              
+        },
+        "rodeur": {
+          "value": 1,
+          "label":"k2m.rodeur",
+          "xp": 1              
+        },
+        "Senechal": {
+          "value": 1,
+          "label":"k2m.senechal",
+          "xp": 1              
+        },
+        "soldat": {
+          "value": 1,
+          "label":"k2m.soldat",
+          "xp": 1              
+        },
+        "Tireur": {
+          "value": 1,
+          "label":"k2m.tireur",
+          "xp": 1              
+        },
+        "veneur": {
+          "value": 1,
+          "label":"k2m.veneur",
+          "xp": 1              
+        },
+        "voyageur": {
+          "value": 1,
+          "label":"k2m.voyageur",
+          "xp": 1              
+        }
+      }
+    }
+  },
   "character": {
     "biography": "",
     "health": {
