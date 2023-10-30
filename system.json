@@ -11,8 +11,8 @@
       "url": "https://github.com/ZolOnTheNet/"
     }
   ],
-  "esmodules": ["module/simple.js"],
-  "styles": ["styles/simple.css"],
+  "esmodules": ["module/npqv11.js"],
+  "styles": ["styles/npqv11.css"],
   "packs": [],
   "languages": [
     {
